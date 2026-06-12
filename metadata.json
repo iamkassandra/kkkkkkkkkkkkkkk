@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Companion",
+  "description": "An interactive learning workspace featuring visual mind-mapping, flashcard generation, and markdown concept drafting powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
